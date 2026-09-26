@@ -1,0 +1,21 @@
+# 构建产物
+.build/
+dist/
+*.zip
+
+# 开发期诊断工具的编译产物（源码在 tools/，用 tools/build_tools.sh 重建）
+prototype/
+
+# 历史版本存档
+archive/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode / Swift
+*.xcuserstate
+xcuserdata/
+.swiftpm/
