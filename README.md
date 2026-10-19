@@ -53,7 +53,7 @@
 ### 方式二：从源码构建
 
 ```bash
-git clone https://github.com/4choor3/Lumina.git
+git clone https://github.com/u2tt/Lumina.git
 cd Lumina
 bash build/build.sh          # 编译并安装到 /Applications
 ```
